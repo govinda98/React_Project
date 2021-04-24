@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import logoImg from './imgs/logo.png';
 import Nav from './Nav';
 import Home from './Home';
 import ExerciseList from './Exerciselist';
