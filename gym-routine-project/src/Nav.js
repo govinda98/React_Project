@@ -22,10 +22,6 @@ function Nav(){
                     <li>Routine</li>
                 </Link>
 
-                <Link style={hrefStyle} to="/signup">
-                    <li>Signup</li>
-                </Link>
-
                 <Link style={hrefStyle} to="/login">
                     <li>Login</li>
                 </Link>    
