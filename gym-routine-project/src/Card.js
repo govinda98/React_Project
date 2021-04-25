@@ -3,7 +3,7 @@ import './Card.css';
 
 function Card({ title, imageUrl, body, demo }) {
     return (
-        <div className='card-container'>
+        <div className='card-container'> 
             <div className='image-container'>
                 <img src={imageUrl} alt='benchpress'/>
             </div>
