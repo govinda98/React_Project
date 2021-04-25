@@ -8,7 +8,7 @@ function Routine() {
   return (
     isAuthenticated && (
       <div>
-        <h1>Routine Page</h1>
+        <h1>Create Your Routine</h1>
       </div>
     )
   );
